@@ -1,8 +1,13 @@
+
 @font-face {
   font-family: 'JalnanGothic';
   src: url('../../JalnanGothic.otf') format('otf');
   font-weight: normal;
   font-style: normal;
+}
+
+.korean-text {
+  font-family: 'JalnanGothic', sans-serif;
 }
 
 .btn {
