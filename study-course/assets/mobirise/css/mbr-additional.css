@@ -1,4 +1,3 @@
-
 @font-face {
   font-family: 'JalnanGothic';
   src: url('../../JalnanGothic.otf') format('otf');
@@ -1262,7 +1261,7 @@ a {
 }
 
 .cid-sISoW10YlE .text-white {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .cid-sISoW10YlE .nav-button {
@@ -1270,7 +1269,7 @@ a {
 }
 
 .cid-sISoWbldCd {
-  background-image: url("../../images/ggu.png");
+  background-image: url("../../images/me3.jpg");
 }
 
 .cid-sISoWbldCd h4 {
@@ -1319,11 +1318,11 @@ a {
 }
 
 .cid-sISoWbldCd .mbr-text {
-  color: #fff;
+  color: #000000;
 }
 
 .cid-sISoWbldCd .mbr-section-subtitle {
-  color: #fff;
+  color: #101010;
   text-transform: uppercase;
   position: relative;
 }
@@ -1370,11 +1369,11 @@ a {
 }
 
 .cid-sISoWbldCd .main-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 
 .cid-sISoXnnGCF {
-  padding-top: 5rem;
+  padding-top: 2rem;
   padding-bottom: 5rem;
   background: #181818;
 }
